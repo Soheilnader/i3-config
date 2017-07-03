@@ -9,6 +9,6 @@ exec --no-startup-id feh --bg-scale <path>
 ```
 
 ### cool wallpapers
-```
-http://www.deviantart.com/morelikethis/348877239
-```
+
+* [Deviantart](http://www.deviantart.com/morelikethis/348877239)
+
